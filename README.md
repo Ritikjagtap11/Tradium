@@ -180,7 +180,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - **Ritik Jagtap**
-- **Portfolio**: [portfolio-link-placeholder]
-- **LinkedIn**: [linkedin-link-placeholder]
-- **GitHub**: [github-link-placeholder]
-- **Email**: [email-link-placeholder]
+- **Portfolio**: https://portfolio-f10t.onrender.com/
+- **LinkedIn**: https://linkedin.com/in/ritik-jagtap11
+- **GitHub**: https://github.com/RitikJagtap11
+- **Email**: jagtapritik8@gmail.com
+
+
