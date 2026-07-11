@@ -6,11 +6,11 @@ import {Link} from "react-router-dom"
 function Universe() {
     return (
         <div className="container mt-5 p-5 text-center text-muted">
-            <h2 className='mb-4'>The Zerodha Universe</h2>
+            <h2 className='mb-4'>The Tradium Universe</h2>
             <p className='mb-5'>Extend your trading and investment experience even further with our partner platforms</p>
             <div className="row">
                 <div className="col-4">
-                    <img src="media/images/zerodhaFundhouse.png" style={{ width: "50%" }} alt="Product Image" />
+                    <img src="media/images/tradiumFundhouse.png" style={{ width: "50%" }} alt="Product Image" />
                     <p className='text-muted fs-6 p-4'>Our asset management venture
                         that is creating simple and transparent index
                         funds to help you save for your goals.

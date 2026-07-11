@@ -15,7 +15,7 @@ function Team() {
                     <h6>Founder & CEO</h6>
                 </div>
                 <div className='col-6' style={{ lineHeight: "1.8" }}>
-                    <p>Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.</p>
+                    <p>Nithin bootstrapped and founded Tradium in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Tradium has changed the landscape of the Indian broking industry.</p>
 
                     <p>He is a member of the SEBI Secondary Market Advisory Committee (SMAC) and the Market Data Advisory Committee (MDAC).</p>
 

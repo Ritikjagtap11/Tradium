@@ -14,7 +14,7 @@ function CreateTicket() {
                     <a href='#'>Glossary</a><br />
                 </div>
                 <div className='col mt-2 text-muted p-5'>
-                    <h3 className='fs-4'><i class="fa fa-user" aria-hidden="true"></i> Your Zerodha Account</h3>
+                    <h3 className='fs-4'><i class="fa fa-user" aria-hidden="true"></i> Your Tradium Account</h3>
                     <a href='#'>Your Profilel</a><br />
                     <a href='#'>Account modification</a><br />
                     <a href='#'>Client Master Report (CMR) and Depository Participant (DP)</a><br />

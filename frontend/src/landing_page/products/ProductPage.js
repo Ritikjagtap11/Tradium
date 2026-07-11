@@ -22,7 +22,7 @@ function ProductPage() {
             <RightSection
             imageUrl="/media/images/console.png" 
             productName="Console" 
-            productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations." 
+            productDescription="The central dashboard for your Tradium account. Gain insights into your trades and investments with in-depth reports and visualisations." 
             learnMore="#" 
             />
             <LeftSection 
@@ -47,7 +47,7 @@ function ProductPage() {
             googlePlay="#" 
             appStore="#" />
 
-            <p style={{textAlign:"center", fontSize:"25px"}}>Want to know more about our technology stack? Check out the <a  href='#'>Zerodha.tech</a> blog.</p>
+            <p style={{textAlign:"center", fontSize:"25px"}}>Want to know more about our technology stack? Check out the <a  href='#'>Tradium.tech</a> blog.</p>
             <Universe />
         </>
     );

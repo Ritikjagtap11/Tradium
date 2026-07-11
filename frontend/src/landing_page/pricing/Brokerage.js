@@ -11,7 +11,7 @@ function Brokerage() {
                     <div className='mt-3 text-muted fs-6'>
                         <h4>Securities/Commodities transaction tax</h4>
                         <p>Tax by the government when transacting on the exchanges. Charged as above on both buy and sell sides when trading equity delivery. Charged only on selling side when trading intraday or on F&O.</p>
-                        <p>When trading at Zerodha, STT/CTT can be a lot more than the brokerage we charge. Important to keep a tab.</p>
+                        <p>When trading at Tradium, STT/CTT can be a lot more than the brokerage we charge. Important to keep a tab.</p>
                     </div>
                 </div>
                 <div className="col">
